@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: b2e49cb60946a974a83f43081ecc1835
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4158721639895151377
+    second: MicrosoftTeams-image (1)_0
+  - first:
+      213: -7751120294685907360
+    second: MicrosoftTeams-image (1)_1
+  - first:
+      213: 8679189356592410478
+    second: MicrosoftTeams-image (1)_2
+  - first:
+      213: -3213897702359505821
+    second: MicrosoftTeams-image (1)_3
+  - first:
+      213: 4352451867333411521
+    second: MicrosoftTeams-image (1)_4
+  - first:
+      213: -368844971946480765
+    second: MicrosoftTeams-image (1)_5
+  - first:
+      213: 5540514806177749685
+    second: MicrosoftTeams-image (1)_6
+  - first:
+      213: 5916674360287939622
+    second: MicrosoftTeams-image (1)_7
+  - first:
+      213: -6711613960563779423
+    second: MicrosoftTeams-image (1)_8
+  - first:
+      213: -7224301586985417143
+    second: MicrosoftTeams-image (1)_9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc15ec3b04946c0800000000000000
+      internalID: -4158721639895151377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066ecefb82d7e6490800000000000000
+      internalID: -7751120294685907360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6faa0a4cbca27870800000000000000
+      internalID: 8679189356592410478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364ea625111f563d0800000000000000
+      internalID: -3213897702359505821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c46eb9e3076c30800000000000000
+      internalID: 4352451867333411521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38be0f5c37991eaf0800000000000000
+      internalID: -368844971946480765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba540f7cdcd3ec40800000000000000
+      internalID: 5540514806177749685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ccf989bff3c1250800000000000000
+      internalID: 5916674360287939622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a81b0b99ae8bd2a0800000000000000
+      internalID: -6711613960563779423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicrosoftTeams-image (1)_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 95.1
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946817d8bff1ebb90800000000000000
+      internalID: -7224301586985417143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MicrosoftTeams-image (1)_7: 5916674360287939622
+      MicrosoftTeams-image (1)_8: -6711613960563779423
+      MicrosoftTeams-image (1)_4: 4352451867333411521
+      MicrosoftTeams-image (1)_6: 5540514806177749685
+      MicrosoftTeams-image (1)_9: -7224301586985417143
+      MicrosoftTeams-image (1)_0: -4158721639895151377
+      MicrosoftTeams-image (1)_5: -368844971946480765
+      MicrosoftTeams-image (1)_3: -3213897702359505821
+      MicrosoftTeams-image (1)_2: 8679189356592410478
+      MicrosoftTeams-image (1)_1: -7751120294685907360
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
