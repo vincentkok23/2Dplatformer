@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Gravity_button
+  - Jump
+  - StrongJump
+  - Slow
+  - Lucio
+  - Reverse
+  - Coin
+  - Platform
+  - Checkpoint
+  - Ladder
+  - PauseMenu
+  - feeth
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - grid
+  - Water
+  - UI
+  - groundlayer
+  - Coins
+  - feeth
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForGround
+    uniqueID: 1085914243
+    locked: 0
